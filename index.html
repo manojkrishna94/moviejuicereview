@@ -49,7 +49,7 @@
           <table style="width:50%">
   <tr>
     <th>
-      <img src="images/Moviejuicelogo.png" width="200" height="100">
+      <img src="images/popcorn.jpg" width="200" height="100">
  </th>
     <th>
     <h1>Movie Juice </h1>
